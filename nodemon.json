@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "kyk-home",
+    "MONGO_PASSWORD": "5Je05haYPD2B5PM1",
+    "MONGO_DB": "events-react-dev"
+  }
+}
